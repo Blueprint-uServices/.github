@@ -1,4 +1,8 @@
-# Blueprint Microservices Compiler
+<p align="center">
+  <img src="https://blueprint-uservices.github.io/assets/img/blueprint%20logo%204 small.png" width=200/>
+</p>
+
+### Blueprint Microservices Compiler
 
 Blueprint is a microservice development toolchain designed to make it easier for researchers to easily prototype infrastructure for microservice applications and compile those prototypes into a variety of benchmark applications.
 
