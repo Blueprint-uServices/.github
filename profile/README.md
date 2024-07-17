@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://blueprint-uservices.github.io/assets/img/blueprint%20logo%204 small.png" width=200/>
+  <img src="https://blueprint-uservices.github.io/assets/img/Blueprint.png" width=200/>
 </p>
 
 ### Blueprint Microservices Compiler
